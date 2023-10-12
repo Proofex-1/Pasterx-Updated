@@ -1,0 +1,845 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (PasterX.vcxproj, VenomVgreen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(141,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(146,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(146,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(146,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(180,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(181,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(182,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(184,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(185,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(186,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(188,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(189,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(190,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(191,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(192,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(193,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(195,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(196,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(197,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(198,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(200,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(201,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(202,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(203,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(205,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(206,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(207,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(208,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(249,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,1): message : see previous definition of 'STATUS_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,1): message : see previous definition of 'STATUS_ABANDONED_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,1): message : see previous definition of 'STATUS_USER_APC'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,1): message : see previous definition of 'STATUS_TIMEOUT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291,1): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,1): message : see previous definition of 'STATUS_PENDING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,1): message : see previous definition of 'DBG_EXCEPTION_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,1): message : see previous definition of 'DBG_CONTINUE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,1): message : see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,1): message : see previous definition of 'STATUS_FATAL_APP_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,1): message : see previous definition of 'DBG_REPLY_LATER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,1): message : see previous definition of 'DBG_TERMINATE_THREAD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,1): message : see previous definition of 'DBG_TERMINATE_PROCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,1): message : see previous definition of 'DBG_CONTROL_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,1): message : see previous definition of 'DBG_PRINTEXCEPTION_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,1): message : see previous definition of 'DBG_RIPEXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,1): message : see previous definition of 'DBG_CONTROL_BREAK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,1): message : see previous definition of 'DBG_COMMAND_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,1): message : see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,1): message : see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,1): message : see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,1): message : see previous definition of 'STATUS_BREAKPOINT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,1): message : see previous definition of 'STATUS_SINGLE_STEP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,1): message : see previous definition of 'STATUS_LONGJUMP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,1): message : see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,1): message : see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,1): message : see previous definition of 'STATUS_ACCESS_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,1): message : see previous definition of 'STATUS_IN_PAGE_ERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,1): message : see previous definition of 'STATUS_INVALID_HANDLE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,1): message : see previous definition of 'STATUS_INVALID_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,1): message : see previous definition of 'STATUS_NO_MEMORY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,1): message : see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,1): message : see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,1): message : see previous definition of 'STATUS_INVALID_DISPOSITION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,1): message : see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,1): message : see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,1): message : see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,1): message : see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,1): message : see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,1): message : see previous definition of 'STATUS_FLOAT_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,1): message : see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,1): message : see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,1): message : see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,1): message : see previous definition of 'STATUS_INTEGER_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,1): message : see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,1): message : see previous definition of 'STATUS_STACK_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,1): message : see previous definition of 'STATUS_DLL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,1): message : see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,1): message : see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,1): message : see previous definition of 'STATUS_CONTROL_C_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,1): message : see previous definition of 'STATUS_DLL_INIT_FAILED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2599,1): message : see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,1): message : see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,1): message : see previous definition of 'STATUS_HEAP_CORRUPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,1): message : see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,1): message : see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,1): message : see previous definition of 'STATUS_ASSERTION_FAILURE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2607,1): message : see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10736,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2608,1): message : see previous definition of 'STATUS_INTERRUPTED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10745,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2609,1): message : see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11057,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,1): message : see previous definition of 'STATUS_ALREADY_REGISTERED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14976,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,1): message : see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(14985,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,1): message : see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(27,6): message : see declaration of 'hwnd'
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\driver.h(25,33): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\driver.h(32,17): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\driver.h(108,47): warning C4458: declaration of 'ProcessId' hides class member
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\driver.h(21,7): message : see declaration of 'Driver::ProcessId'
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\xor.hpp(211,22): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Keybind.h(55,22): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Keybind.h(71,24): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Keybind.h(87,25): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Keybind.h(103,23): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Keybind.h(119,26): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Keybind.h(785,14): warning C4459: declaration of 'aimkeys' hides global declaration
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(43,20): message : see declaration of 'aimkeys'
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\json.hpp(5937,58): warning C4459: declaration of 'h' hides global declaration
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Print.hpp(13,8): message : see declaration of 'h'
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\json.hpp(9131,42): warning C4459: declaration of 'num' hides global declaration
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Print.hpp(14,5): message : see declaration of 'num'
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\json.hpp(16959,29): warning C4459: declaration of 'h' hides global declaration
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Print.hpp(13,8): message : see declaration of 'h'
+main.cpp(44,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+main.cpp(48,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+main.cpp(93,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(134,59): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(118,7): message : see declaration of 'Vector3'
+main.cpp(135,62): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(118,7): message : see declaration of 'Vector3'
+main.cpp(437,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(438,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(439,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(464,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(465,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(466,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(645,119): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(645,108): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(645,97): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(645,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(645,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(646,119): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(646,108): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(646,97): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(646,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(646,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(647,119): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(647,108): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(647,97): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(647,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(647,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(648,119): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(648,108): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(648,97): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(648,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(648,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(649,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(649,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(653,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(653,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(653,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(653,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(656,133): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(656,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(656,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(656,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(787,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(788,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(789,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(790,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(791,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(792,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(793,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(794,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(795,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(796,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(797,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(798,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(799,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(800,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(801,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(802,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(803,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(804,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(860,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(861,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(862,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(863,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(864,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(865,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(866,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(867,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(868,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(869,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(870,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(871,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(872,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(873,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(874,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(875,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(876,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(968,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(968,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(968,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(968,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(969,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(969,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(969,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(969,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(970,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(970,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(970,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(970,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(971,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(971,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(971,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(971,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(972,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(972,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(972,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(972,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(973,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(973,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(973,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(973,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(974,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(974,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(974,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(974,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(975,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(975,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(975,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(975,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(976,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(976,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(976,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(976,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(977,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(977,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(977,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(977,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(978,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(978,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(978,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(978,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(979,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(979,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(979,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(979,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(980,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(980,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(980,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(980,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1063,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1063,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1063,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1063,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1063,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1063,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1068,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1068,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1068,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1068,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1068,183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1068,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1068,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1068,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1068,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1073,177): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1073,159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1073,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1073,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1071,65): warning C4100: 'thickness': unreferenced formal parameter
+main.cpp(1071,44): warning C4100: 'y2': unreferenced formal parameter
+main.cpp(1071,36): warning C4100: 'x2': unreferenced formal parameter
+main.cpp(1071,28): warning C4100: 'y1': unreferenced formal parameter
+main.cpp(1071,20): warning C4100: 'x1': unreferenced formal parameter
+main.cpp(1078,212): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1078,194): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1078,176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1078,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1076,48): warning C4100: 'H': unreferenced formal parameter
+main.cpp(1076,39): warning C4100: 'W': unreferenced formal parameter
+main.cpp(1076,30): warning C4100: 'Y': unreferenced formal parameter
+main.cpp(1076,21): warning C4100: 'X': unreferenced formal parameter
+main.cpp(1084,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1084,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1084,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1084,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1084,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1084,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1084,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1086,56): warning C4459: declaration of 'Col' hides global declaration
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\pasterx.h(412,14): message : see declaration of 'Col'
+main.cpp(1091,46): warning C4459: declaration of 'h' hides global declaration
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Print.hpp(13,8): message : see declaration of 'h'
+main.cpp(1093,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1093,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1093,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1093,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1095,45): warning C4459: declaration of 'h' hides global declaration
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Print.hpp(13,8): message : see declaration of 'h'
+main.cpp(1108,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+main.cpp(1109,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+main.cpp(1111,137): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1111,126): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1111,115): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1111,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1111,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1111,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1112,137): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1112,126): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1112,115): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1112,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1112,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1112,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1113,145): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1113,134): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1113,123): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1113,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1113,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1113,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1114,145): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1114,134): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1114,123): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1114,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1114,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1114,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1115,145): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1115,134): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1115,123): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1115,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1115,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1115,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1116,145): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1116,134): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1116,123): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1116,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1116,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1116,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1117,153): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1117,142): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1117,131): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1117,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1117,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1117,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1118,153): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1118,142): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1118,131): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1118,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1118,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1118,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1121,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1121,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1121,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1121,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1122,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1122,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1122,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1122,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1123,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1123,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1123,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1123,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1124,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1124,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1124,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1124,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1125,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1125,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1125,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1125,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1126,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1126,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1126,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1126,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1127,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1127,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1127,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1127,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1128,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1128,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1128,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1128,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1132,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(1132,6): warning C4189: 'len': local variable is initialized but not referenced
+main.cpp(1163,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main.cpp(1164,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main.cpp(1168,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1168,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1169,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1169,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1170,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1170,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1171,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1171,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1173,181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1173,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1173,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1173,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1173,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1173,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1175,50): warning C4459: declaration of 'h' hides global declaration
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Print.hpp(13,8): message : see declaration of 'h'
+main.cpp(1190,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+main.cpp(1191,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+main.cpp(1194,118): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1194,107): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1194,96): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1194,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1194,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1194,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1195,118): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1195,107): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1195,96): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1195,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1195,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1195,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1196,126): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1196,115): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1196,104): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1196,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1196,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1196,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1197,126): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1197,115): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1197,104): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1197,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1197,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1197,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1198,126): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1198,115): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1198,104): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1198,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1198,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1198,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1199,126): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1199,115): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1199,104): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1199,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1199,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1199,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1200,134): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1200,123): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1200,112): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1200,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1200,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1200,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1201,134): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1201,123): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1201,112): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1201,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1201,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1201,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1204,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1204,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1204,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1204,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1205,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1205,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1205,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1205,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1206,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1206,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1206,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1206,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1207,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1207,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1207,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1207,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1208,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1208,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1208,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1208,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1209,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1209,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1209,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1209,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1210,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1210,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1210,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1210,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1211,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1211,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1211,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1211,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1275,25): warning C4100: 'in': unreferenced formal parameter
+main.cpp(1368,32): warning C4100: 'argv': unreferenced formal parameter
+main.cpp(1368,14): warning C4100: 'argc': unreferenced formal parameter
+main.cpp(1375,9): warning C4189: 'hpStdout': local variable is initialized but not referenced
+main.cpp(1664,8): warning C4459: declaration of 'ScreenCenterX' hides global declaration
+main.cpp(130,7): message : see declaration of 'ScreenCenterX'
+main.cpp(1664,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+main.cpp(1665,8): warning C4459: declaration of 'ScreenCenterY' hides global declaration
+main.cpp(131,7): message : see declaration of 'ScreenCenterY'
+main.cpp(1665,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+main.cpp(1666,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+main.cpp(1808,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1808,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1814,170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1814,152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1814,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1814,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1814,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1814,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1814,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1825,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1825,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1826,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1826,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1827,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1827,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1828,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1828,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1829,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1829,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1833,36): warning C4838: conversion from 'ImColor' to 'float' requires a narrowing conversion
+main.cpp(1833,36): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+main.cpp(1834,36): warning C4838: conversion from 'ImColor' to 'float' requires a narrowing conversion
+main.cpp(1834,36): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+main.cpp(1842,8): warning C4459: declaration of 'fovcircle' hides global declaration
+main.cpp(57,6): message : see declaration of 'fovcircle'
+main.cpp(1843,9): warning C4459: declaration of 'fovcirclefilled' hides global declaration
+main.cpp(90,6): message : see declaration of 'fovcirclefilled'
+main.cpp(1846,124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(1846,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+main.cpp(1846,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+main.cpp(1847,8): warning C4459: declaration of 'square_fov' hides global declaration
+main.cpp(73,6): message : see declaration of 'square_fov'
+main.cpp(1848,8): warning C4459: declaration of 'fovcircle' hides global declaration
+main.cpp(57,6): message : see declaration of 'fovcircle'
+main.cpp(1849,9): warning C4459: declaration of 'fovcirclefilled' hides global declaration
+main.cpp(90,6): message : see declaration of 'fovcirclefilled'
+main.cpp(1852,124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(1852,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+main.cpp(1852,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+main.cpp(1911,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1923,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1927,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1931,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1935,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1939,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1943,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1947,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1951,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1955,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1959,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1963,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1967,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1971,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1975,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1979,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1983,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1987,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1991,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1995,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(1999,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2003,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2007,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2011,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2015,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2019,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2023,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2027,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2031,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2035,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2039,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2043,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2047,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2051,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2055,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2059,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2063,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2067,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2071,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2075,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2079,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2083,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2087,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2091,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2095,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2099,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2103,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2107,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2111,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2115,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2119,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2123,10): warning C4553: '==': result of expression not used; did you intend '='?
+main.cpp(2138,12): warning C4459: declaration of 'PlayerCameraManager' hides global declaration
+main.cpp(122,11): message : see declaration of 'PlayerCameraManager'
+main.cpp(2155,25): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2189,8): warning C4456: declaration of 'entityListCopy' hides previous local declaration
+main.cpp(2127,7): message : see declaration of 'entityListCopy'
+main.cpp(2234,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(2247,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(2248,15): warning C4459: declaration of 'faken_rot' hides global declaration
+main.cpp(41,5): message : see declaration of 'faken_rot'
+main.cpp(2252,8): warning C4456: declaration of 'i' hides previous local declaration
+main.cpp(2155,16): message : see declaration of 'i'
+main.cpp(2256,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2256,19): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+main.cpp(2257,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2257,19): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+main.cpp(2258,34): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+main.cpp(2259,34): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+main.cpp(2262,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(2265,40): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+main.cpp(2265,30): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+main.cpp(2266,50): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+main.cpp(2266,33): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+main.cpp(2267,50): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+main.cpp(2267,33): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+main.cpp(2300,51): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+main.cpp(2335,15): warning C4456: declaration of 'CurrentVehicle' hides previous local declaration
+main.cpp(2148,11): message : see declaration of 'CurrentVehicle'
+main.cpp(2351,14): warning C4456: declaration of 'PlayerCameraManager' hides previous local declaration
+main.cpp(2138,12): message : see declaration of 'PlayerCameraManager'
+main.cpp(2367,113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2367,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2367,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2367,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2367,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2371,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2371,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2371,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2371,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2371,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2393,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2393,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2393,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2393,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2393,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2395,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2395,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2395,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2395,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2395,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2396,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2396,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2396,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2396,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2396,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2398,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2398,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2398,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2398,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2398,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2399,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2399,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2399,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2399,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2399,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2401,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2401,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2401,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2401,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2401,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2402,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2402,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2402,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2402,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2402,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2404,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2404,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2404,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2404,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2404,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2405,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2405,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2405,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2405,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2405,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2407,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2407,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2407,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2407,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2407,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2408,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2408,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2408,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2408,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2408,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2410,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2410,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2410,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2410,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2410,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2411,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2411,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2411,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2411,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2411,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2423,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2423,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2423,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2429,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2429,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2429,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2432,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2432,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2432,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2438,122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2438,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2438,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2438,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2438,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2439,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2439,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+main.cpp(2439,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2439,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2449,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(2449,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(2460,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2460,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2460,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+main.cpp(2467,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(2491,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2491,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2491,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2491,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2492,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2492,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2492,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2492,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2493,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2493,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2493,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2493,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2494,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2494,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2494,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2494,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2143,8): warning C4189: 'ActorCount': local variable is initialized but not referenced
+main.cpp(2142,12): warning C4189: 'Crrneytwep': local variable is initialized but not referenced
+main.cpp(2136,12): warning C4189: 'pcmc': local variable is initialized but not referenced
+main.cpp(2148,11): warning C4189: 'CurrentVehicle': local variable is initialized but not referenced
+main.cpp(2144,12): warning C4189: 'AOFFSETS': local variable is initialized but not referenced
+main.cpp(1843,9): warning C4189: 'fovcirclefilled': local variable is initialized but not referenced
+main.cpp(1842,8): warning C4189: 'fovcircle': local variable is initialized but not referenced
+main.cpp(1849,9): warning C4189: 'fovcirclefilled': local variable is initialized but not referenced
+main.cpp(1848,8): warning C4189: 'fovcircle': local variable is initialized but not referenced
+main.cpp(1847,8): warning C4189: 'square_fov': local variable is initialized but not referenced
+main.cpp(2227,7): warning C4189: 'center_y': local variable is initialized but not referenced
+main.cpp(2223,9): warning C4189: 'LeftX': local variable is initialized but not referenced
+main.cpp(2224,9): warning C4189: 'LeftY': local variable is initialized but not referenced
+main.cpp(2226,7): warning C4189: 'center_x': local variable is initialized but not referenced
+main.cpp(2179,7): warning C4101: 'NewPlayerLocationY': unreferenced local variable
+main.cpp(2187,8): warning C4189: 'isDBNO': local variable is initialized but not referenced
+main.cpp(2178,7): warning C4101: 'NewPlayerLocationX': unreferenced local variable
+main.cpp(2239,18): warning C4101: 'jbjfdbdsf': unreferenced local variable
+main.cpp(2239,8): warning C4101: 'oodofdfo': unreferenced local variable
+main.cpp(2350,8): warning C4189: 'FOVVALUE': local variable is initialized but not referenced
+main.cpp(2661,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+main.cpp(2662,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+main.cpp(2694,42): warning C4459: declaration of 'Message' hides global declaration
+main.cpp(2620,5): message : see declaration of 'Message'
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\xor.hpp(224,33): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\xor.hpp(222,11): message : while compiling class template member function 'char *CXorString<IndexList<0,1,2,3,4,5>>::decrypt(void)'
+main.cpp(2535,19): message : see the first reference to 'CXorString<IndexList<0,1,2,3,4,5>>::decrypt' in 'render'
+main.cpp(2514,3): message : see reference to class template instantiation 'CXorString<IndexList<0,1,2,3,4,5>>' being compiled
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\ud.h(68,24): warning C4505: 'MouseController::Move_Mouse': unreferenced function with internal linkage has been removed
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Print.hpp(161,20): warning C4505: 'string_to_timet': unreferenced function with internal linkage has been removed
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\Print.hpp(168,16): warning C4505: 'timet_to_tm': unreferenced function with internal linkage has been removed
+main.cpp(1812,13): warning C4505: 'DrawCircleFilled': unreferenced function with internal linkage has been removed
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\main.cpp(1073): warning C4723: potential divide by 0
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\main.cpp(1073): warning C4723: potential divide by 0
+C:\Users\21212\Documents\PasterX-Fortnite-Source-main\reverse\driver.h(27): warning C4706: assignment within conditional expression
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  reverse.vcxproj -> C:\Users\21212\Documents\PasterX-Fortnite-Source-main\x64\Release\PasterX Updated By Proofex.exe
