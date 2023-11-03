@@ -1,3 +1,3 @@
 # Pasterx-Updated
 Pasterx updated
-More starts = more updated sources
+More stars = more updated sources
