@@ -2,13 +2,13 @@
 #include <Windows.h>
 
 #define GWorld 0xF16DE38
-#define VIEW_POINT 0xE49C7E0
+#define VIEW_POINT 0xE2CED18
 
 
 namespace OFFSETS
 {
     uintptr_t UWORLD = 0xF16DE38;
-    uintptr_t Viewpoint = 0xE49C7E0;
+    uintptr_t Viewpoint = 0xE2CED18;
 
     uintptr_t Gameinstance = 0x1b8;
     uintptr_t LocalPlayers = 0x38;
@@ -18,8 +18,8 @@ namespace OFFSETS
     uintptr_t RootComponet = 0x198;
     uintptr_t GameState = 0x158;
     uintptr_t PersistentLevel = 0x30;
-    uintptr_t LastSubmitTime = 0x368;
-    uintptr_t LastRenderTimeOnScreen = 0x370;
+    uintptr_t LastSubmitTime = 0x360;
+    uintptr_t LastRenderTimeOnScreen = 0x368;
 
     uintptr_t ActorCount = 0xA0;
     uintptr_t Cameramanager = 0x348;
@@ -27,13 +27,13 @@ namespace OFFSETS
     uintptr_t CurrentActor = 0x8;
     uintptr_t Mesh = 0x318;
     uintptr_t Revivefromdbnotime = 0x4af8;
-    uintptr_t TeamId = 0x10D8;
-    uintptr_t ActorTeamId = 0x10C8;
+    uintptr_t TeamId = 0x10e0;
+    uintptr_t ActorTeamId = 0x10e0;
 
     uintptr_t IsDBNO = 0x872;
     uintptr_t LocalActorPos = 0x128;
     uintptr_t ComponetToWorld = 0x240;
-    uintptr_t BoneArray = 0x610;
+    uintptr_t BoneArray = 0x620;
     uintptr_t Bonecache = 0x658;
     uintptr_t Velocity = 0xb8;
     uintptr_t Private = 0x308; //PawnPrivate
