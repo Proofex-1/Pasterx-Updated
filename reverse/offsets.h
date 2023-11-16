@@ -1,13 +1,13 @@
 #pragma once
 #include <Windows.h>
 
-#define GWorld 0xF16DE38
+#define GWorld 0xF3022D8
 #define VIEW_POINT 0xE2CED18
 
 
 namespace OFFSETS
 {
-    uintptr_t UWORLD = 0xF16DE38;
+    uintptr_t UWORLD = 0xF3022D8;
     uintptr_t Viewpoint = 0xE2CED18;
 
     uintptr_t Gameinstance = 0x1b8;
