@@ -1,14 +1,11 @@
-#pragma once
-#include <Windows.h>
-
-#define GWorld 0xF3022D8
-#define VIEW_POINT 0xE2CED18
+#define GWorld 0x10AEC0B8
+#define VIEW_POINT 0xE49C7E0
 
 
 namespace OFFSETS
 {
-    uintptr_t UWORLD = 0xF3022D8;
-    uintptr_t Viewpoint = 0xE2CED18;
+    uintptr_t UWORLD = 0x10AEC0B8;
+    uintptr_t Viewpoint = 0xE49C7E0;
 
     uintptr_t Gameinstance = 0x1b8;
     uintptr_t LocalPlayers = 0x38;
@@ -18,15 +15,15 @@ namespace OFFSETS
     uintptr_t RootComponet = 0x198;
     uintptr_t GameState = 0x158;
     uintptr_t PersistentLevel = 0x30;
-    uintptr_t LastSubmitTime = 0x360;
-    uintptr_t LastRenderTimeOnScreen = 0x368;
+    uintptr_t LastSubmitTime = 0x368;
+    uintptr_t LastRenderTimeOnScreen = 0x370;
 
     uintptr_t ActorCount = 0xA0;
     uintptr_t Cameramanager = 0x348;
     uintptr_t AActor = 0x98;
     uintptr_t CurrentActor = 0x8;
     uintptr_t Mesh = 0x318;
-    uintptr_t Revivefromdbnotime = 0x4af8;
+    uintptr_t Revivefromdbnotime = 0x4b68;
     uintptr_t TeamId = 0x10e0;
     uintptr_t ActorTeamId = 0x10e0;
 
